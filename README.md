@@ -26,8 +26,6 @@ The prices used in this project are only for simulation and are not real-time st
 
 How to Run
 
-Make sure Java is installed on your computer.
-
 Open the terminal in the project folder and run:
 
 javac Main.java
@@ -42,19 +40,5 @@ Menu
 5. Transaction History
 6. Update Market Prices
 7. Exit
-
-Starting Balance
-
-The program starts with a balance of:
-
-Rs.100000
-
-The balance changes when stocks are bought or sold.
-
-Project File
-
-Main.java
-
-Internship
 
 This project was created as part of my CodeAlpha Java Programming Internship.
